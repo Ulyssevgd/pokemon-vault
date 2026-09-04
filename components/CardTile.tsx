@@ -37,14 +37,14 @@ export default function CardTile({
   const isUp = (change ?? 0) >= 0;
 
   return (
-    <div className="group rounded-2xl border border-white/10 bg-white/[0.03] p-5 transition hover:border-white/20 hover:bg-white/[0.05]">
+    <div className="group rounded-2xl border border-white/10 bg-[#111318]/90 p-5 shadow-lg shadow-black/30 backdrop-blur-sm transition hover:border-white/20 hover:bg-[#14161c]/95">
       <div className="flex items-center gap-4">
-        <div className="relative h-20 w-14 shrink-0 overflow-hidden rounded-md bg-black/30 ring-1 ring-white/10">
+        <div className="relative h-28 w-20 shrink-0 overflow-hidden rounded-md bg-black/40 ring-1 ring-white/10">
           <Image
             src={card.image}
             alt={card.name}
             fill
-            sizes="56px"
+            sizes="80px"
             className="object-cover"
             unoptimized
           />
