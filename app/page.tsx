@@ -1,7 +1,7 @@
 import cardsData from "@/data/cards.json";
 import historyData from "@/data/history.json";
 import CardTile from "@/components/CardTile";
-import PokeballPattern from "@/components/PokeballPattern";
+import PokemonBackdrop from "@/components/PokemonBackdrop";
 
 type Card = {
   id: string;
@@ -31,7 +31,7 @@ export default function Home() {
 
   return (
     <div className="relative min-h-screen overflow-hidden px-6 py-12 text-white sm:px-10">
-      <PokeballPattern />
+      <PokemonBackdrop />
 
       <div className="relative mx-auto max-w-6xl">
         <header className="mb-12 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
