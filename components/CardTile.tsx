@@ -111,6 +111,12 @@ export default function CardTile({
           </AreaChart>
         </ResponsiveContainer>
       </div>
+      {first && latest && (
+        <div className="mt-1 flex justify-between text-[10px] text-white/25">
+          <span>{first.date.slice(0, 7)}</span>
+          <span>{latest.date}</span>
+        </div>
+      )}
     </div>
   );
 }
