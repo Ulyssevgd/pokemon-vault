@@ -33,5 +33,19 @@
     "set": "Base Set 2",
     "number": "4/130",
     "image": "https://images.pokemontcg.io/base4/4_hires.png"
+  },
+  {
+    "id": "xy7-96",
+    "name": "Primal Kyogre-EX",
+    "set": "Ancient Origins",
+    "number": "96/98",
+    "image": "https://images.pokemontcg.io/xy7/96_hires.png"
+  },
+  {
+    "id": "swsh7-215",
+    "name": "Umbreon VMAX (Alt Art)",
+    "set": "Evolving Skies",
+    "number": "215/203",
+    "image": "https://images.pokemontcg.io/swsh7/215_hires.png"
   }
 ]

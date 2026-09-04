@@ -29,12 +29,23 @@ export default function Home() {
     .pop();
 
   return (
-    <div className="min-h-screen bg-[#0b0c10] text-white px-6 py-12 sm:px-10">
-      <div className="mx-auto max-w-6xl">
+    <div className="relative min-h-screen overflow-hidden bg-[#0b0c10] px-6 py-12 text-white sm:px-10">
+      {/* Pokéball-inspired backdrop */}
+      <div className="pointer-events-none absolute inset-0 -z-10">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_-10%,rgba(239,68,68,0.16),transparent_55%)]" />
+        <div className="absolute left-1/2 top-1/2 h-[1400px] w-[1400px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/[0.05]" />
+        <div className="absolute left-1/2 top-1/2 h-[1000px] w-[1000px] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/[0.06]" />
+        <div className="absolute left-1/2 top-1/2 h-[600px] w-[600px] -translate-x-1/2 -translate-y-1/2 rounded-full border-2 border-white/[0.08]" />
+        <div className="absolute left-0 right-0 top-1/2 h-px -translate-y-1/2 bg-gradient-to-r from-transparent via-white/[0.07] to-transparent" />
+        <div className="absolute left-1/2 top-1/2 h-16 w-16 -translate-x-1/2 -translate-y-1/2 rounded-full border-2 border-white/10 bg-[#0b0c10]" />
+        <div className="absolute left-1/2 top-1/2 h-6 w-6 -translate-x-1/2 -translate-y-1/2 rounded-full bg-white/[0.06]" />
+      </div>
+
+      <div className="relative mx-auto max-w-6xl">
         <header className="mb-12 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">
-              My Vault
+              Poké<span className="text-red-400">Deck</span>
             </h1>
             <p className="mt-1 text-sm text-white/50">
               Live Cardmarket values · updates daily
