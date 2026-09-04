@@ -1,7 +1,7 @@
 import cardsData from "@/data/cards.json";
 import historyData from "@/data/history.json";
-import CardTile from "@/components/CardTile";
 import PokemonBackdrop from "@/components/PokemonBackdrop";
+import CardGrid from "@/components/CardGrid";
 
 type Card = {
   id: string;
@@ -56,15 +56,7 @@ export default function Home() {
           </div>
         </header>
 
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {cards.map((card) => (
-            <CardTile
-              key={card.id}
-              card={card}
-              series={history[card.id] || []}
-            />
-          ))}
-        </div>
+        <CardGrid cards={cards} history={history} />
       </div>
     </div>
   );
