@@ -29,12 +29,18 @@ async function fetchCard(id, attempt = 1) {
   return json.data;
 }
 
+const USD_TO_EUR = 0.92; // rough fallback conversion when Cardmarket data isn't synced yet
+
 function extractEurPrice(card) {
   const cm = card.cardmarket?.prices;
-  if (!cm) return null;
-  // Prefer trendPrice (Cardmarket's smoothed market trend), fall back to
-  // averageSellPrice, then any 30-day average.
-  return cm.trendPrice ?? cm.averageSellPrice ?? cm.avg30 ?? null;
+  if (cm) {
+    const eur = cm.trendPrice ?? cm.averageSellPrice ?? cm.avg30 ?? null;
+    if (eur != null) return eur;
+  }
+  // Brand-new sets often have TCGplayer (USD) data before Cardmarket (EUR)
+  // catches up. Fall back to a converted USD price so charts don't go blank.
+  const usd = extractUsdPrice(card);
+  return usd != null ? Math.round(usd * USD_TO_EUR * 100) / 100 : null;
 }
 
 function extractUsdPrice(card) {
