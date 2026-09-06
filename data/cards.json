@@ -75,5 +75,26 @@
     "set": "Pitch Black",
     "number": "16/84",
     "image": "https://images.scrydex.com/pokemon/me5-16/large"
+  },
+  {
+    "id": "me5-45",
+    "name": "Rampardos ex",
+    "set": "Pitch Black",
+    "number": "45/84",
+    "image": "https://images.scrydex.com/pokemon/me5-45/large"
+  },
+  {
+    "id": "me5-4",
+    "name": "Lurantis ex",
+    "set": "Pitch Black",
+    "number": "4/84",
+    "image": "https://images.scrydex.com/pokemon/me5-4/large"
+  },
+  {
+    "id": "me5-115",
+    "name": "Mega Chandelure ex",
+    "set": "Pitch Black",
+    "number": "115/84",
+    "image": "https://images.scrydex.com/pokemon/me5-115/large"
   }
 ]
