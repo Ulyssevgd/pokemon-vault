@@ -159,6 +159,11 @@
       "date": "2026-09-22",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-09-23",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-65": [
@@ -329,6 +334,11 @@
     },
     {
       "date": "2026-09-22",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-09-23",
       "eur": null,
       "usd": null
     }
@@ -898,6 +908,11 @@
       "date": "2026-09-22",
       "eur": 1.22,
       "usd": 1.33
+    },
+    {
+      "date": "2026-09-23",
+      "eur": 1.13,
+      "usd": 1.23
     }
   ],
   "me5-31": [
@@ -1053,6 +1068,11 @@
     },
     {
       "date": "2026-09-22",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-09-23",
       "eur": null,
       "usd": null
     }
@@ -1222,6 +1242,11 @@
       "date": "2026-09-22",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-09-23",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-111": [
@@ -1387,6 +1412,11 @@
     },
     {
       "date": "2026-09-22",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-09-23",
       "eur": null,
       "usd": null
     }
@@ -1556,6 +1586,11 @@
       "date": "2026-09-22",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-09-23",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-92": [
@@ -1721,6 +1756,11 @@
     },
     {
       "date": "2026-09-22",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-09-23",
       "eur": null,
       "usd": null
     }
@@ -1895,6 +1935,11 @@
       "date": "2026-09-22",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-09-23",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-97": [
@@ -2062,6 +2107,11 @@
       "date": "2026-09-22",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-09-23",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-16": [
@@ -2217,6 +2267,11 @@
     },
     {
       "date": "2026-09-22",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-09-23",
       "eur": null,
       "usd": null
     }
@@ -2391,6 +2446,11 @@
       "date": "2026-09-22",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-09-23",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-4": [
@@ -2541,6 +2601,11 @@
     },
     {
       "date": "2026-09-22",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-09-23",
       "eur": null,
       "usd": null
     }
@@ -2708,6 +2773,11 @@
     },
     {
       "date": "2026-09-22",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-09-23",
       "eur": null,
       "usd": null
     }
