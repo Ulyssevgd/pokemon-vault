@@ -254,6 +254,11 @@
       "date": "2026-10-13",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-14",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-65": [
@@ -1183,6 +1188,11 @@
       "date": "2026-10-13",
       "eur": 1.32,
       "usd": 1.44
+    },
+    {
+      "date": "2026-10-14",
+      "eur": 1.32,
+      "usd": 1.44
     }
   ],
   "me5-31": [
@@ -1423,6 +1433,11 @@
     },
     {
       "date": "2026-10-12",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-14",
       "eur": null,
       "usd": null
     }
@@ -1697,6 +1712,11 @@
       "date": "2026-10-13",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-14",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-111": [
@@ -1957,6 +1977,11 @@
     },
     {
       "date": "2026-10-13",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-14",
       "eur": null,
       "usd": null
     }
@@ -2478,6 +2503,11 @@
       "date": "2026-10-13",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-14",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-27": [
@@ -2750,6 +2780,11 @@
       "date": "2026-10-13",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-14",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-97": [
@@ -3012,6 +3047,11 @@
       "date": "2026-10-13",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-14",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-16": [
@@ -3272,6 +3312,11 @@
     },
     {
       "date": "2026-10-13",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-14",
       "eur": null,
       "usd": null
     }
@@ -3546,6 +3591,11 @@
       "date": "2026-10-13",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-14",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-4": [
@@ -3796,6 +3846,11 @@
     },
     {
       "date": "2026-10-13",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-14",
       "eur": null,
       "usd": null
     }
@@ -4068,6 +4123,11 @@
     },
     {
       "date": "2026-10-13",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-14",
       "eur": null,
       "usd": null
     }
