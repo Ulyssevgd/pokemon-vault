@@ -309,6 +309,11 @@
       "date": "2026-10-24",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-25",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-65": [
@@ -614,6 +619,11 @@
     },
     {
       "date": "2026-10-24",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-25",
       "eur": null,
       "usd": null
     }
@@ -1333,6 +1343,11 @@
       "date": "2026-10-24",
       "eur": 1.23,
       "usd": 1.34
+    },
+    {
+      "date": "2026-10-25",
+      "eur": 1.23,
+      "usd": 1.34
     }
   ],
   "me5-31": [
@@ -1618,6 +1633,11 @@
     },
     {
       "date": "2026-10-24",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-25",
       "eur": null,
       "usd": null
     }
@@ -1940,6 +1960,11 @@
     },
     {
       "date": "2026-10-24",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-25",
       "eur": null,
       "usd": null
     }
@@ -3200,6 +3225,11 @@
       "date": "2026-10-24",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-25",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-97": [
@@ -3505,6 +3535,11 @@
     },
     {
       "date": "2026-10-24",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-25",
       "eur": null,
       "usd": null
     }
@@ -3822,6 +3857,11 @@
     },
     {
       "date": "2026-10-24",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-25",
       "eur": null,
       "usd": null
     }
@@ -4151,6 +4191,11 @@
       "date": "2026-10-24",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-10-25",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-4": [
@@ -4446,6 +4491,11 @@
     },
     {
       "date": "2026-10-24",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-25",
       "eur": null,
       "usd": null
     }
@@ -4768,6 +4818,11 @@
     },
     {
       "date": "2026-10-24",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-10-25",
       "eur": null,
       "usd": null
     }
