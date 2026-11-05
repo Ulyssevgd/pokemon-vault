@@ -716,6 +716,11 @@
       "date": "2026-11-04",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-11-05",
+      "eur": null,
+      "usd": null
     }
   ],
   "me2-114": [
@@ -1473,6 +1478,11 @@
       "date": "2026-11-04",
       "eur": 1.23,
       "usd": 1.34
+    },
+    {
+      "date": "2026-11-05",
+      "eur": 1.23,
+      "usd": 1.34
     }
   ],
   "me5-31": [
@@ -1808,6 +1818,11 @@
     },
     {
       "date": "2026-11-04",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-11-05",
       "eur": null,
       "usd": null
     }
@@ -2187,6 +2202,11 @@
       "date": "2026-11-04",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-11-05",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-111": [
@@ -2547,6 +2567,11 @@
     },
     {
       "date": "2026-11-04",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-11-05",
       "eur": null,
       "usd": null
     }
@@ -3253,6 +3278,11 @@
       "date": "2026-11-04",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-11-05",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-27": [
@@ -3630,6 +3660,11 @@
       "date": "2026-11-04",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-11-05",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-97": [
@@ -3985,6 +4020,11 @@
     },
     {
       "date": "2026-11-04",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-11-05",
       "eur": null,
       "usd": null
     }
@@ -4357,6 +4397,11 @@
     },
     {
       "date": "2026-11-04",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-11-05",
       "eur": null,
       "usd": null
     }
@@ -4741,6 +4786,11 @@
       "date": "2026-11-04",
       "eur": null,
       "usd": null
+    },
+    {
+      "date": "2026-11-05",
+      "eur": null,
+      "usd": null
     }
   ],
   "me5-4": [
@@ -5081,6 +5131,11 @@
     },
     {
       "date": "2026-11-04",
+      "eur": null,
+      "usd": null
+    },
+    {
+      "date": "2026-11-05",
       "eur": null,
       "usd": null
     }
